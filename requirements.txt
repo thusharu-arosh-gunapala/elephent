@@ -1,0 +1,10 @@
+numpy
+scipy
+opencv-python
+joblib
+# Optional runtime packages for deployment/hardware/model loading:
+# sounddevice
+# pyserial
+# gpsd-py3
+# tensorflow
+# xgboost
